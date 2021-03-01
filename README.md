@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuriShevchuk
-- 👀 I’m looking for a job as a Trainee/Junior Frontend Web Developer
+- 👀 I’m looking for a job as a Junior Frontend Developer
 - 🌱 I’m currently learning Vue.js
 - 📫 How to reach me: yurii.shev4uk@gmail.com, +380988060937
       
