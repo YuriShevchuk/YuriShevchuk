@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YuriShevchuk
-- 👀 I’m looking for a job as a Junior Frontend Developer
-- 🌱 I’m currently learning React and Typescript
-- 📫 How to reach me: yurii.shev4uk@gmail.com, +380988060937
+- 👀 I’m looking for a job as a Trainee/Junior Frontend Developer
+- 🌱 SoftServe IT Academy Trainee
+- 📫 How to reach me: yurii.shev4uk@gmail.com
       
 
 <!---
