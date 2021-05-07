@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuriShevchuk
 - 👀 I’m looking for a job as a Trainee/Junior Frontend Developer
-- 🌱 SoftServe IT Academy Trainee
+
 - 📫 How to reach me: yurii.shev4uk@gmail.com
       
 
