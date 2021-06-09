@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @YuriShevchuk
+- 🌱 I’m currently learning JS, TS, Angular
 - 👀 I’m looking for a job as a Trainee/Junior Frontend Developer
 
 - 📫 How to reach me: yurii.shev4uk@gmail.com
