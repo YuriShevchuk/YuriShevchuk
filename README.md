@@ -1,6 +1,6 @@
-- 👋 Hi, I'm a passionate Frontend Developer from Ivano-Frankivsk/Kyiv, Ukraine
+- 👋 Hi, I'm a passionate Frontend Developer from Kyiv, Ukraine
 - Main Stack:
-- Angular 8+, TypeScript, RxJS, NGXS, jQuery, NestJS, Konva.js, quill.js jsPDF, HTML, SASS/SCSS, Bootstrap/SLDS/Nebular UI
+-   Angular 2+, TypeScript, RxJS, NGRX/NGXS, Angular Material/Bootstrap/SLDS, jQuery, NestJS, Konva.js, quill.js jsPDF, HTML, SCSS
 - Hobbies: 💻🥦🚲📚🎧🧘🏻‍♂️
 
 - 📫 How to reach me:
